@@ -2,3 +2,4 @@ ADD
 SUB
 MUL
 DIV
+MOD
